@@ -1,0 +1,1 @@
+# Notes from Javascript: The Good Parts
